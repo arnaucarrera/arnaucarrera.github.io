@@ -26,8 +26,7 @@ author:
   avatar           : "BasakSakcakProfile_0.jpg"
   name             : "Bașak Sakçak"
   pronouns         : #"she/her"  
-  bio              : "Assistant Professor
-  Dept. of Advanced Computing Sciences Faculty of Science and Engineering"       
+  bio              : "Assistant Professor \n\r Dept. of Advanced Computing Sciences Faculty of Science and Engineering"       
   location         : "Maastricht"
   employer         : "Maastricht University"
   uri              : "https://www.maastrichtuniversity.nl/b-s-sak%C3%A7ak"
@@ -136,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -229,7 +228,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -281,13 +280,14 @@ defaults:
       share: true
       comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  # commenting this part didn't avoid that it appears
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
 
 
 # Sass/SCSS
