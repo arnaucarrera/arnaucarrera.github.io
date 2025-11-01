@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Technology (Systems and Control), Politecnico di Milano, 2018
+* M.S. in Automation Engineering, Politecnico di Milano, 2013
+* B.S. in Mechatronics Engineering, Sabnci Universitesi, 2010
 
 Work experience
 ======
@@ -22,15 +22,11 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2017 - December 2019: Research Fellow
+  * Politecnico di Milano
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD Student: November 2014 - Octobor 2017
+  * Politecnico di Milano
   
 Skills
 ======
