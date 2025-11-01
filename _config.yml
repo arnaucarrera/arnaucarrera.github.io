@@ -24,9 +24,10 @@ repository               : "arnaucarrera/arnaucarrera.github.io"
 author:
   # Biographic information
   avatar           : "BasakSakcakProfile_0.jpg"
-  name             : "Basak Sakcak"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Bașak Sakçak"
+  pronouns         : #"she/her"  
+  bio              : "Assistant Professor"
+  position         : "Dept. of Advanced Computing Sciences Faculty of Science and Engineering"        
   location         : "Maastricht"
   employer         : "Maastricht University"
   uri              : "https://www.maastrichtuniversity.nl/b-s-sak%C3%A7ak"
