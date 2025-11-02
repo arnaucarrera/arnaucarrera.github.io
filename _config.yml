@@ -26,7 +26,7 @@ author:
   avatar           : "BasakSakcakProfile_0.jpg"
   name             : "Bașak Sakçak"
   pronouns         : #"she/her"  
-  bio              : "Assistant Professor \n\r Dept. of Advanced Computing Sciences Faculty of Science and Engineering"       
+  bio              : "Assistant Professor \n\r Dept. of Advanced Computing Sciences Faculty of Science and Engineering" #not working        
   location         : "Maastricht"
   employer         : "Maastricht University"
   uri              : "https://www.maastrichtuniversity.nl/b-s-sak%C3%A7ak"
