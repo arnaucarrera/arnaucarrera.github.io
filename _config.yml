@@ -26,7 +26,7 @@ author:
   avatar           : "BasakSakcakProfile_0.jpg"
   name             : "Bașak Sakçak"
   pronouns         : #"she/her"  
-  bio              : "Assistant Professor \n\r Dept. of Advanced Computing Sciences Faculty of Science and Engineering" #not working        
+  bio              : "Assistant Professor \n\r Dept. of Advanced Computing Sciences Faculty of Science and Engineering" #not working well        
   location         : "Maastricht"
   employer         : "Maastricht University"
   uri              : "https://www.maastrichtuniversity.nl/b-s-sak%C3%A7ak"
@@ -286,8 +286,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
