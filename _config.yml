@@ -227,6 +227,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  research_projects:
+    output: true
+    permalink: /:collection/:path/  
   talks:
     output: false
     permalink: /:collection/:path/
