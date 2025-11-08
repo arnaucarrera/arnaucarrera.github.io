@@ -56,3 +56,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Research Projects
+======
+  <ul>{% for post in site.research_projects reversed %}
+    {% include archive-single-research-projects-cv.html  %}
+  {% endfor %}</ul>
+-->
