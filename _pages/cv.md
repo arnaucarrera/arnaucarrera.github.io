@@ -28,14 +28,6 @@ Work experience
 * PhD Student: November 2014 - Octobor 2017
   * Politecnico di Milano
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
