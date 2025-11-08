@@ -62,4 +62,3 @@ Research Projects
   <ul>{% for post in site.research_projects reversed %}
     {% include archive-single-research-projects-cv.html  %}
   {% endfor %}</ul>
--->
